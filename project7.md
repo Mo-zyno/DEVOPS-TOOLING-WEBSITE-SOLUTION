@@ -412,8 +412,8 @@
 
  ![result2](./images/result2.png)
 
- # YAAAAY! THAT CONCLUIDES THIS PROJECT
+ # YAAAAY! THAT CONCLUDES THIS PROJECT
  # THANK YOU.
- 
+
 
 
