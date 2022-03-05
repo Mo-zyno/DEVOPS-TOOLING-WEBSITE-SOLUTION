@@ -1,4 +1,4 @@
-# project-7
+# DevOps-Tooling Website Solution
 
 This project is all about implimenting Devops tooling website.
 
