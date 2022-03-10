@@ -1,4 +1,4 @@
-# Documentation for project 7
+# DEVOPS-TOOLING-WEBSITE-SOLUTION
 
 **In this project you will implement a solution that consists of following components:**
 
